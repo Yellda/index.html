@@ -1,0 +1,92 @@
+.navbar-light .navbar-brand:hover {
+    color: rgba(0, 0, 0, 0.9);
+  }
+  .navbar-light .navbar-brand {
+    color: rgba(0, 0, 0, 0.9);
+    font-family: system-ui;
+    font-weight: 500;
+    text-align: center;
+  }
+  
+  p.fst-bold {
+    color: rgb(14, 15, 15);
+    font-family: "system-ui";
+    font-weight: 500;
+  }
+  p.fst-italic {
+    color: black;
+    font-family: "system-ui";
+    font-weight: 500;
+  }
+  .card-title {
+    font-family: "system-ui";
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+  }
+  .card-text {
+    color: #000;
+    font-family: "system-ui";
+    font-weight: 500;
+  }
+  .blockquote-footer {
+    font-family: "system-ui";
+    font-size: 1em;
+    color: rgb(102, 90, 90);
+  }
+  .nav-pills .nav-link {
+    color: rgb(107, 129, 151);
+  }
+  .row > * {
+    width: 50%;
+    padding-right: 0px;
+  }
+  
+  .btn-primary {
+    color: rgb(209, 140, 12);
+    background-color: blanchedalmond;
+  }
+  .form-control {
+    display: inline-flex;
+    align-self: auto;
+    width: 17%;
+    border: 1px solid #ced4da;
+    border-radius: 16px;
+  }
+  .form-text {
+    display: inline-flex;
+    justify-content: flex-start;
+  }
+  img {
+    border-style: groove;
+  }
+  .search-hover {
+    border: 1px solid #ccc;
+    outline: none;
+    background-size: 22px;
+    background-position: 13px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    padding: 25px;
+    transition: all 0.5s;
+  }
+  .search-hover:hover {
+    width: 300px;
+    padding-left: 50px;
+  }
+  h1 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+    font: normal;
+  }
+  .button {
+    text-align: center;
+  }
+  .form-label {
+    margin-bottom: 7, 5em;
+    padding-left: 20pc;
+  }
+  
